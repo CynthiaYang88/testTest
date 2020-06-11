@@ -39,7 +39,7 @@
 <p>a. a seller signes an agreement that gives a realtor the exclusive right to market the property</p>
 <p>b. a seller lists the property with a number of realtors at the same time</p>
 <p>c. a seller agrees that the property can be open to sale by any number of realtors</p>
-<p>d. a seller tells the realtor what the seller wants to make on the sal ena dnthe realtor takes anything over that amount, or the loss on anything under that amound</p>
+<p>d. a seller tells the realtor what the seller wants to make on the sale and the realtor takes anything over that amount, or the loss on anything under that amound</p>
 <p>&nbsp;</p>
 <p><strong>8. An estate of indeterminate duration is a/an</strong></p>
 <p>a. estate from period to period</p>
