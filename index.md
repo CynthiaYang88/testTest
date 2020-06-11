@@ -23,6 +23,7 @@
 <p>b. $3,937.17</p>
 <p>c. $12,539.65</p>
 <p>d. $4,826.87</p>
+<p>&nbsp;</p>
 <p><strong>5. Chris Downes is considering buying some property to hold as an investment. The property is 1 square mile. He wants to figure out how many acre lots he could subdivide the property into and then how many square feet the property is. How many acres is it and how many square feet?</strong></p>
 <p>a. 640 acres; 20,037,600 square feet</p>
 <p>b. 640 acres; 27,878,400 square feet</p>
