@@ -53,7 +53,7 @@
 <p>c. $285,000</p>
 <p>d. $2,850,000</p>
 <p>&nbsp;</p>
-<p><strong>10. What is the rate of appreciation on Jim Christopher's house, if he bought it 12 years ago for %573,247 and sold it for $849,001?</strong></p>
+<p><strong>10. What is the rate of appreciation on Jim Christopher's house, if he bought it 12 years ago for $573,247 and sold it for $849,001?</strong></p>
 <p>a. 32.5%</p>
 <p>b. 36.4%</p>
 <p>c. 44.7%</p>
